@@ -1,0 +1,7 @@
+[build]
+  # ใช้ Python
+  builder = "python"
+
+[deploy]
+  # คำสั่งรัน
+  start = "python overhuman_commander_ultra.py"
